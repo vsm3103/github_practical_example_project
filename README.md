@@ -6,4 +6,8 @@ Student id: a1986119
 Adelaide University
 Mail: suryameenav@gmail.com
 
+I'm doing my Master of Science specializing in Biotechnology
+
+
+
 
